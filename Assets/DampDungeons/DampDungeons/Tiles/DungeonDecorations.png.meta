@@ -1,118 +1,106 @@
 fileFormatVersion: 2
-guid: 2948d4dcec2aded49b4d59a4778b8346
+guid: 6293772ee2f3e2d469faaa5ba2005b79
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7033359609419058202
-    second: 16x16_0
+      213: 2922208148363707222
+    second: DungeonDecorations_0
   - first:
-      213: -3508794999336203909
-    second: 16x16_1
+      213: 7676151197350310623
+    second: DungeonDecorations_1
   - first:
-      213: 7052995454107013588
-    second: 16x16_2
+      213: 2258972296830979408
+    second: DungeonDecorations_2
   - first:
-      213: -6520634922097649790
-    second: 16x16_3
+      213: -2157185902389528620
+    second: DungeonDecorations_3
   - first:
-      213: -7667355298066314445
-    second: 16x16_4
+      213: 6129786654299071108
+    second: DungeonDecorations_4
   - first:
-      213: 4618711388415579949
-    second: 16x16_5
+      213: 7824893386731304380
+    second: DungeonDecorations_5
   - first:
-      213: 7807540928022631320
-    second: 16x16_6
+      213: -5658075339274682307
+    second: DungeonDecorations_6
   - first:
-      213: 6865431281250916633
-    second: 16x16_7
+      213: 4157763735468344278
+    second: DungeonDecorations_7
   - first:
-      213: -2720889697789872080
-    second: 16x16_8
+      213: -7350987825450332176
+    second: DungeonDecorations_8
   - first:
-      213: 4909752860975830008
-    second: 16x16_9
+      213: -8441983182818315289
+    second: DungeonDecorations_9
   - first:
-      213: 6407664723641331494
-    second: 16x16_10
+      213: -7176581747616158790
+    second: DungeonDecorations_10
   - first:
-      213: 3297348024618513862
-    second: 16x16_11
+      213: 8612690116748166765
+    second: DungeonDecorations_11
   - first:
-      213: -3960183823583425718
-    second: 16x16_12
+      213: 2476935465167361680
+    second: DungeonDecorations_12
   - first:
-      213: 5003174463449487696
-    second: 16x16_13
+      213: 2130015336135642419
+    second: DungeonDecorations_13
   - first:
-      213: 8788545991891706334
-    second: 16x16_14
+      213: 4555270523052163074
+    second: DungeonDecorations_14
   - first:
-      213: 1721798448538171029
-    second: 16x16_15
+      213: -8525419763863702540
+    second: DungeonDecorations_15
   - first:
-      213: 8456615035436648194
-    second: 16x16_16
+      213: 3285934926477040335
+    second: DungeonDecorations_16
   - first:
-      213: -8490604656168319031
-    second: 16x16_17
+      213: 2242254803180199885
+    second: DungeonDecorations_17
   - first:
-      213: 977877231069769583
-    second: 16x16_18
+      213: 8583074334413758108
+    second: DungeonDecorations_18
   - first:
-      213: 9000240989288892881
-    second: 16x16_19
+      213: 1371438582834251091
+    second: DungeonDecorations_19
   - first:
-      213: 732973570710880713
-    second: 16x16_20
+      213: -4870682235481108259
+    second: DungeonDecorations_20
   - first:
-      213: -516291639418439976
-    second: 16x16_21
+      213: -723697959196565717
+    second: DungeonDecorations_21
   - first:
-      213: -5112093778953335834
-    second: 16x16_22
+      213: -2313815680374771773
+    second: DungeonDecorations_22
   - first:
-      213: 344399311584687406
-    second: 16x16_23
+      213: 392124602909486083
+    second: DungeonDecorations_23
   - first:
-      213: -5840662636130032780
-    second: 16x16_24
+      213: -2247382947815227014
+    second: DungeonDecorations_24
   - first:
-      213: -1366648790733946385
-    second: 16x16_25
+      213: 98549805865116324
+    second: DungeonDecorations_25
   - first:
-      213: -465430912943923674
-    second: 16x16_26
+      213: 6821593713133419594
+    second: DungeonDecorations_26
   - first:
-      213: 4577660034246386176
-    second: 16x16_27
+      213: 2128087893478609115
+    second: DungeonDecorations_27
   - first:
-      213: 1162964665328882485
-    second: 16x16_28
+      213: 189859842232694801
+    second: DungeonDecorations_28
   - first:
-      213: -3857596031159909058
-    second: 16x16_29
+      213: -8941226998409759926
+    second: DungeonDecorations_29
   - first:
-      213: 8419824661610949078
-    second: 16x16_30
+      213: -746076429960933181
+    second: DungeonDecorations_30
   - first:
-      213: 1731615565123986282
-    second: 16x16_31
+      213: 2851943693863325427
+    second: DungeonDecorations_31
   - first:
-      213: 9033411447594623537
-    second: 16x16_32
-  - first:
-      213: -6939686424165058331
-    second: 16x16_33
-  - first:
-      213: 3395594910358098742
-    second: 16x16_34
-  - first:
-      213: -4301863495251561320
-    second: 16x16_35
-  - first:
-      213: -6791402613607464848
-    second: 16x16_36
+      213: -6821276908839889815
+    second: DungeonDecorations_32
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -208,13 +196,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 16x16_0
+      name: DungeonDecorations_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 210
-        width: 16
-        height: 28
+        y: 431
+        width: 49
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,283 +211,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a1cc009ec438b9160800000000000000
-      internalID: 7033359609419058202
+      spriteID: 65388f214d4cd8820800000000000000
+      internalID: 2922208148363707222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_1
+      name: DungeonDecorations_1
       rect:
         serializedVersion: 2
-        x: 15
-        y: 210
-        width: 33
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7906ead9814e4fc0800000000000000
-      internalID: -3508794999336203909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_2
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 193
-        width: 16
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d15e744ff541e160800000000000000
-      internalID: 7052995454107013588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_3
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 208
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 287dc5e061d0285a0800000000000000
-      internalID: -6520634922097649790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_4
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 209
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 33b4c04daf4189590800000000000000
-      internalID: -7667355298066314445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_5
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 225
-        width: 15
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d27df8a6985f81040800000000000000
-      internalID: 4618711388415579949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_6
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 225
-        width: 16
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 893dc10ab15f95c60800000000000000
-      internalID: 7807540928022631320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_7
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 209
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 919d0dc2069e64f50800000000000000
-      internalID: 6865431281250916633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_8
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 224
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 038f63a5c357d3ad0800000000000000
-      internalID: -2720889697789872080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_9
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 192
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f31c6dc632f22440800000000000000
-      internalID: 4909752860975830008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_10
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 192
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62f617ced199ce850800000000000000
-      internalID: 6407664723641331494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_11
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 192
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c5f83cee8882cd20800000000000000
-      internalID: 3297348024618513862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_12
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 192
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4bcf0e5bc99a09c0800000000000000
-      internalID: -3960183823583425718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_13
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 147
-        width: 26
+        x: 321
+        y: 480
+        width: 31
         height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -509,18 +233,480 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0595633aaa8de6540800000000000000
-      internalID: 5003174463449487696
+      spriteID: fd2314018da278a60800000000000000
+      internalID: 7676151197350310623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_14
+      name: DungeonDecorations_2
       rect:
         serializedVersion: 2
-        x: 176
-        y: 209
+        x: 259
+        y: 307
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d0f0ed55b795f10800000000000000
+      internalID: 2258972296830979408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 449
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7779dd9d22012e0800000000000000
+      internalID: -2157185902389528620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 425
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4822d6e2c70611550800000000000000
+      internalID: 6129786654299071108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 434
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53c61c31b979c60800000000000000
+      internalID: 7824893386731304380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 424
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30822ae47a7a71b0800000000000000
+      internalID: -5658075339274682307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 417
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d38790b61853b930800000000000000
+      internalID: 4157763735468344278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 417
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffcfcb158b0cf990800000000000000
+      internalID: -7350987825450332176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 402
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3fa44d50d08da80800000000000000
+      internalID: -8441983182818315289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 375
+        width: 80
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb69c77ce8a76c90800000000000000
+      internalID: -7176581747616158790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ca49770c668770800000000000000
+      internalID: 8612690116748166765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 379
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0961ed4aea7df5220800000000000000
+      internalID: 2476935465167361680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 370
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dcf74b9a55f8d10800000000000000
+      internalID: 2130015336135642419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 372
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2000556e762973f30800000000000000
+      internalID: 4555270523052163074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 375
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f33fc5f4ef9fa980800000000000000
+      internalID: -8525419763863702540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 376
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca96bfe76cf99d20800000000000000
+      internalID: 3285934926477040335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 379
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf187f0dd61e1f10800000000000000
+      internalID: 2242254803180199885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 371
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e118fc1a43d1770800000000000000
+      internalID: 8583074334413758108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 370
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355c919ff14580310800000000000000
+      internalID: 1371438582834251091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 369
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0d754105cd76cb0800000000000000
+      internalID: -4870682235481108259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 369
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fd9695a88e4f5f0800000000000000
+      internalID: -723697959196565717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf6887d5eca3efd0800000000000000
+      internalID: -2313815680374771773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 352
         width: 16
         height: 15
       alignment: 0
@@ -531,20 +717,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed163e2140037f970800000000000000
-      internalID: 8788545991891706334
+      spriteID: 30c6c10bf3b117500800000000000000
+      internalID: 392124602909486083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_15
+      name: DungeonDecorations_24
       rect:
         serializedVersion: 2
-        x: 65
-        y: 209
-        width: 15
-        height: 10
+        x: 354
+        y: 338
+        width: 12
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,19 +739,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 596bfe3019e05e710800000000000000
-      internalID: 1721798448538171029
+      spriteID: a710439bd11bfc0e0800000000000000
+      internalID: -2247382947815227014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_16
+      name: DungeonDecorations_25
       rect:
         serializedVersion: 2
-        x: 80
-        y: 209
-        width: 16
+        x: 370
+        y: 354
+        width: 12
         height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -575,20 +761,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 207cd65d19eeb5570800000000000000
-      internalID: 8456615035436648194
+      spriteID: 4a2264bb68e1e5100800000000000000
+      internalID: 98549805865116324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_17
+      name: DungeonDecorations_26
       rect:
         serializedVersion: 2
-        x: 180
-        y: 18
-        width: 40
-        height: 46
+        x: 384
+        y: 336
+        width: 128
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -597,20 +783,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c74fc4ec005b2a80800000000000000
-      internalID: -8490604656168319031
+      spriteID: a4cfa59f65b2bae50800000000000000
+      internalID: 6821593713133419594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_18
+      name: DungeonDecorations_27
       rect:
         serializedVersion: 2
-        x: 2
-        y: 163
-        width: 41
-        height: 42
+        x: 323
+        y: 325
+        width: 27
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -619,20 +805,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6f2bdf192e129d00800000000000000
-      internalID: 977877231069769583
+      spriteID: bd01a9df9ac788d10800000000000000
+      internalID: 2128087893478609115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_19
+      name: DungeonDecorations_28
       rect:
         serializedVersion: 2
-        x: 48
-        y: 163
-        width: 43
-        height: 45
+        x: 369
+        y: 338
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -641,19 +827,107 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d989739e7747ec70800000000000000
-      internalID: 9000240989288892881
+      spriteID: 1183465458482a200800000000000000
+      internalID: 189859842232694801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_20
+      name: DungeonDecorations_29
       rect:
         serializedVersion: 2
-        x: 97
-        y: 177
-        width: 30
+        x: 0
+        y: 283
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4377a7ea616ae380800000000000000
+      internalID: -8941226998409759926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c013e8907765a5f0800000000000000
+      internalID: -746076429960933181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 305
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe8328eda3249720800000000000000
+      internalID: 2851943693863325427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9641606cac4f551a0800000000000000
+      internalID: -6821276908839889815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonDecorations_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 450
+        width: 45
         height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -661,374 +935,22 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9c1c8ff349b0c2a00800000000000000
-      internalID: 732973570710880713
+      spriteID: 98dba7ab26b205546a192f600cf64219
+      internalID: -673162263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_21
+      name: DungeonDecorations_34
       rect:
         serializedVersion: 2
-        x: 298
-        y: 170
-        width: 12
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d6b5f74d73c5d8f0800000000000000
-      internalID: -516291639418439976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_22
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 159
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6eb80070bc13e09b0800000000000000
-      internalID: -5112093778953335834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_23
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 159
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e25f4e3695d87c400800000000000000
-      internalID: 344399311584687406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_24
-      rect:
-        serializedVersion: 2
-        x: 394
-        y: 168
-        width: 12
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 473a290174cc1fea0800000000000000
-      internalID: -5840662636130032780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_25
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 79
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe106976a20b80de0800000000000000
-      internalID: -1366648790733946385
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_26
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 112
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62edd76fc057a89f0800000000000000
-      internalID: -465430912943923674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_27
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 79
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 00222c33c8d178f30800000000000000
-      internalID: 4577660034246386176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_28
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 112
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5335243933ea32010800000000000000
-      internalID: 1162964665328882485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_29
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 49
-        height: 97
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e35c1cb19d0177ac0800000000000000
-      internalID: -3857596031159909058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_30
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 87
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d9e46a6be939d470800000000000000
-      internalID: 8419824661610949078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_31
-      rect:
-        serializedVersion: 2
-        x: 274
-        y: 15
-        width: 44
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a63a0c69e2fe70810800000000000000
-      internalID: 1731615565123986282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_32
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 0
-        width: 34
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 13223dbb9df1d5d70800000000000000
-      internalID: 9033411447594623537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_33
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 32
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e87a0b17f741bf90800000000000000
-      internalID: -6939686424165058331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_34
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 0
-        width: 34
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 633d40194939f1f20800000000000000
-      internalID: 3395594910358098742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_35
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 32
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8947f4d71f5bc44c0800000000000000
-      internalID: -4301863495251561320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_36
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 7
-        width: 14
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07084492e4710c1a0800000000000000
-      internalID: -6791402613607464848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_37
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 208
-        width: 16
-        height: 16
+        x: 256
+        y: 420
+        width: 32
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,20 +959,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9966ed0abe6114d42a7734df9ca3dd62
-      internalID: -849692115
+      spriteID: d2aff9a7ccee5ba4faff6e608f6e1327
+      internalID: 1366239086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16_38
+      name: DungeonDecorations_35
       rect:
         serializedVersion: 2
-        x: 144
-        y: 224
-        width: 16
-        height: 16
+        x: 432
+        y: 481
+        width: 33
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1059,162 +981,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df8fb4fbf4cb81a49b33945967b1e886
-      internalID: -2063892339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_39
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 224
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41496de7f86504f48b715ad3c7bf8c33
-      internalID: 1902170935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_40
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 224
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cea49b99ee76ddb448d6ee373abc528c
-      internalID: 1842498357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_41
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 99
-        width: 48
-        height: 61
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57d6a4bc1048ef642a006aa3d72d561d
-      internalID: -1162183529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_42
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 99
-        width: 48
-        height: 61
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f383091907011424abc10dfcc092c6f3
-      internalID: -1645412171
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_43
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 194
-        width: 31
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 905d0fa0f2f4d0d4685f5da3396db0f6
-      internalID: -303521513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_44
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 52
-        width: 16
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d75cec4614fdd146a3fb380298e39e0
-      internalID: 1897479600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16_45
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 108
-        width: 48
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7ee952088fd9a845a94c95c267867b8
-      internalID: 1645764912
+      spriteID: a2ad0af31d9c65a49b98d70540debb41
+      internalID: 1253047442
       vertices: []
       indices: 
       edges: []
@@ -1223,7 +991,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c51c0410e4317cc4989b90f3813a7ee6
+    spriteID: c83bfeae59c848d429b80d2dfc2eb442
     internalID: 0
     vertices: []
     indices: 
@@ -1231,54 +999,48 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      16x16_0: 7033359609419058202
-      16x16_1: -3508794999336203909
-      16x16_10: 6407664723641331494
-      16x16_11: 3297348024618513862
-      16x16_12: -3960183823583425718
-      16x16_13: 5003174463449487696
-      16x16_14: 8788545991891706334
-      16x16_15: 1721798448538171029
-      16x16_16: 8456615035436648194
-      16x16_17: -8490604656168319031
-      16x16_18: 977877231069769583
-      16x16_19: 9000240989288892881
-      16x16_2: 7052995454107013588
-      16x16_20: 732973570710880713
-      16x16_21: -516291639418439976
-      16x16_22: -5112093778953335834
-      16x16_23: 344399311584687406
-      16x16_24: -5840662636130032780
-      16x16_25: -1366648790733946385
-      16x16_26: -465430912943923674
-      16x16_27: 4577660034246386176
-      16x16_28: 1162964665328882485
-      16x16_29: -3857596031159909058
-      16x16_3: -6520634922097649790
-      16x16_30: 8419824661610949078
-      16x16_31: 1731615565123986282
-      16x16_32: 9033411447594623537
-      16x16_33: -6939686424165058331
-      16x16_34: 3395594910358098742
-      16x16_35: -4301863495251561320
-      16x16_36: -6791402613607464848
-      16x16_37: -849692115
-      16x16_38: -2063892339
-      16x16_39: 1902170935
-      16x16_4: -7667355298066314445
-      16x16_40: 1842498357
-      16x16_41: -1162183529
-      16x16_42: -1645412171
-      16x16_43: -303521513
-      16x16_44: 1897479600
-      16x16_45: 1645764912
-      16x16_5: 4618711388415579949
-      16x16_6: 7807540928022631320
-      16x16_7: 6865431281250916633
-      16x16_8: -2720889697789872080
-      16x16_9: 4909752860975830008
+      DungeonDecorations_0: 2922208148363707222
+      DungeonDecorations_1: 7676151197350310623
+      DungeonDecorations_10: -7176581747616158790
+      DungeonDecorations_11: 8612690116748166765
+      DungeonDecorations_12: 2476935465167361680
+      DungeonDecorations_13: 2130015336135642419
+      DungeonDecorations_14: 4555270523052163074
+      DungeonDecorations_15: -8525419763863702540
+      DungeonDecorations_16: 3285934926477040335
+      DungeonDecorations_17: 2242254803180199885
+      DungeonDecorations_18: 8583074334413758108
+      DungeonDecorations_19: 1371438582834251091
+      DungeonDecorations_2: 2258972296830979408
+      DungeonDecorations_20: -4870682235481108259
+      DungeonDecorations_21: -723697959196565717
+      DungeonDecorations_22: -2313815680374771773
+      DungeonDecorations_23: 392124602909486083
+      DungeonDecorations_24: -2247382947815227014
+      DungeonDecorations_25: 98549805865116324
+      DungeonDecorations_26: 6821593713133419594
+      DungeonDecorations_27: 2128087893478609115
+      DungeonDecorations_28: 189859842232694801
+      DungeonDecorations_29: -8941226998409759926
+      DungeonDecorations_3: -2157185902389528620
+      DungeonDecorations_30: -746076429960933181
+      DungeonDecorations_31: 2851943693863325427
+      DungeonDecorations_32: -6821276908839889815
+      DungeonDecorations_33: -673162263
+      DungeonDecorations_34: 1366239086
+      DungeonDecorations_35: 1253047442
+      DungeonDecorations_4: 6129786654299071108
+      DungeonDecorations_5: 7824893386731304380
+      DungeonDecorations_6: -5658075339274682307
+      DungeonDecorations_7: 4157763735468344278
+      DungeonDecorations_8: -7350987825450332176
+      DungeonDecorations_9: -8441983182818315289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

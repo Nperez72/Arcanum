@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         //DASHING LOGIC
-        if (Input.GetKeyDown(KeyCode.LeftShift) && canDash) {
+        if (Input.GetKeyDown(KeyCode.Space) && canDash) {
             StartCoroutine(Dash());
         }
 

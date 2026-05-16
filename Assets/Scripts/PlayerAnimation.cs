@@ -12,10 +12,20 @@ public class PlayerAnimation : MonoBehaviour
 
     void Update()
     {
+      
+        ApplyMovement();
+    }
+
+    /// <summary>
+    /// Applies movement parameters to the animator to control the player's animations for movment and idle poses.
+    /// </summary>
+    void ApplyMovement()
+    {
         bool isMoving = rb.linearVelocity.magnitude > 0.1f;
         anim.SetBool("isMoving", isMoving);
 
-        if (isMoving) {
+        if (isMoving)
+        {
             anim.SetFloat("velX", rb.linearVelocity.x);
             anim.SetFloat("velY", rb.linearVelocity.y);
             anim.SetFloat("idleX", rb.linearVelocity.x);
